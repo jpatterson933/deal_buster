@@ -1,0 +1,14 @@
+#landing-nav {
+    display: flex;
+    justify-content: space-between;
+}
+#side-bar {
+    display: flex;
+    flex-direction: column;
+}
+
+#top-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
