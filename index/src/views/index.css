@@ -1,10 +1,15 @@
 #landing-nav {
     display: flex;
     justify-content: space-between;
+    background-color: royalblue;
 }
 #side-bar {
     display: flex;
     flex-direction: column;
+    padding: 5px;
+    background: yellow;
+    text-align: center;
+    width: 22%;
 }
 
 #top-bar {
