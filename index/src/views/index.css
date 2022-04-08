@@ -6,14 +6,26 @@
 #side-bar {
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
     padding: 5px;
     background: yellow;
     text-align: center;
     width: 22%;
+    font-size: 2em;
 }
 
 #top-bar {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+}
+
+#store-name {
+    padding-right: 2em;
+    font-size: 4em;
+    color: white;
+}
+
+#banner-wrapper {
+    padding-top: 1em;
 }
