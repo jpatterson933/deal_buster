@@ -8,7 +8,7 @@ export const Faq = () => {
     return (
         <div id="faq">
             <h1>Frequently Asked Questions</h1>
-            <h3>What do you sell?</h3>
+            <h3>What do we sell?</h3>
             <p>We sell a variety of overstock and returns from major retailers.</p>
             <h3>Can I return or exchange stuff I bought?</h3>
             <p>No returns or exchanges</p>
