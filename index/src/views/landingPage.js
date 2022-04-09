@@ -8,13 +8,12 @@ export const LandingPage = () => {
         <div>
             <div id="landing-nav">
                 <div id="side-bar">
-                    <div>Contact</div>
-                    <div>Gallery</div>
-                    <div>FAQs</div>
+                    <div><a href="#contact">Contact</a></div>
+                    <div><a href="#hours">Hours</a></div>
+                    <div><a href="#faq">FAQ</a></div>
                 </div>
                 <nav id="top-bar">
-                    <h1 id="store-name">Deal Busters</h1>
-
+                    <h1 id="store-name">Deal Buster</h1>
                     <Facebook />
                     <Instagram />
                     <TikTok />
