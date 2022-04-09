@@ -35,5 +35,13 @@
         min-width: 150px;
     }
 
+    #top-bar {
+        flex-direction: column;
+    }
+
+    #store-name {
+        padding: 0;
+    }
+
 
   }

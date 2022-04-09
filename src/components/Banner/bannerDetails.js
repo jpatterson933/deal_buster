@@ -5,7 +5,7 @@ export const BannerDetails = [
         id: "1",
         day: "Friday",
         details: "New products out on the tables! We restock all day!",
-        price: "$8"
+        price: "$7"
     },
     {
         id: "2",
