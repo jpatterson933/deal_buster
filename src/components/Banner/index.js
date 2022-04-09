@@ -1,7 +1,5 @@
 import React from "react";
-// style sheet
 import './index.css';
-
 import { BannerDetails } from "./bannerDetails";
 
 export const Banner = () => {
@@ -14,8 +12,6 @@ export const Banner = () => {
             </div>
         )
     })
-
-
     return (
         <>
             {banners}

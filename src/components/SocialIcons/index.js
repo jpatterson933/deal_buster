@@ -1,5 +1,4 @@
 import React from "react";
-// style sheet
 import './index.css';
 
 export const Facebook = () => {
@@ -38,11 +37,7 @@ export const Instagram = () => {
                         <circle cx="347" cy="165" r="6" />
                     </g>
                 </svg>
-
-
             </a>
-
-
         </div>
     )
 }

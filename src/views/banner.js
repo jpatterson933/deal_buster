@@ -1,6 +1,5 @@
 import React from "react";
 import { Banner } from "../components/Banner";
-// style sheet
 import './index.css';
 
 export const DailyBanner = () => {
@@ -8,6 +7,5 @@ export const DailyBanner = () => {
         <div id="banner-wrapper">
             <Banner />
         </div>
-    
     )
 }

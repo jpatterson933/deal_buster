@@ -1,6 +1,5 @@
 import React from "react";
 import { Facebook, Instagram, TikTok } from "../components/SocialIcons";
-// style sheet
 import './index.css';
 
 export const LandingPage = () => {

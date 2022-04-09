@@ -1,10 +1,7 @@
 import React from "react";
-// style sheet
 import './index.css';
 
 export const Faq = () => {
-
-
     return (
         <div id="faq">
             <h1>Frequently Asked Questions</h1>

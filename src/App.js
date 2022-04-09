@@ -1,7 +1,4 @@
-
 import './index.css';
-
-// Components
 import { LandingPage } from './views/landingPage';
 import { DailyBanner } from './views/banner';
 import { Faq } from './components/Faq';
@@ -19,5 +16,4 @@ function App() {
     </>
   );
 }
-
 export default App;
