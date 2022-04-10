@@ -33,7 +33,7 @@ export const BannerDetails = [
     {
         id: "6",
         day: "Wednesday",
-        details: "Everything for One Dollar NO MATTER WHAT!",
+        details: "Everything for One Dollar NO MATTER WHAT IT IS!",
         price: "$1"
     },
     {
