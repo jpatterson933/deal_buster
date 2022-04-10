@@ -39,7 +39,7 @@ export const BannerDetails = [
     {
         id: "7",
         day: "Thursday",
-        details: "WE ARE CLOSED",
+        details: "Restocking entire Store!",
         price: "CLOSED"
     },
 ]
